@@ -11,7 +11,7 @@ namespace Cli
         static void Main(string[] args)
         {
             // Check arguments
-            var url = "https://hailHitler-34859.portmap.io";
+            var url = [YOUR_PUBLIC_IP];
             Uri myUri = new Uri(url);
             var IpAddress = Dns.GetHostAddresses(myUri.Host)[0].ToString() ;
             Int32 Port = 34859;
