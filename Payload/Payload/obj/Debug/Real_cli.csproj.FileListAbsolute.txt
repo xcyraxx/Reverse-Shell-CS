@@ -1,0 +1,22 @@
+D:\Projects\Real_cli\Real_cli\bin\Debug\Real_cli.exe.config
+D:\Projects\Real_cli\Real_cli\bin\Debug\Real_cli.exe
+D:\Projects\Real_cli\Real_cli\bin\Debug\Real_cli.pdb
+D:\Projects\Real_cli\Real_cli\obj\Debug\Real_cli.csproj.AssemblyReference.cache
+D:\Projects\Real_cli\Real_cli\obj\Debug\Real_cli.csproj.CoreCompileInputs.cache
+D:\Projects\Real_cli\Real_cli\obj\Debug\Real_cli.exe
+D:\Projects\Real_cli\Real_cli\obj\Debug\Real_cli.pdb
+D:\Projects\Real_cli\Real_cli\bin\Debug\System.Management.Automation.dll
+D:\Projects\Real_cli\Real_cli\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\Projects\Real_cli\Real_cli\bin\Debug\System.Management.Automation.xml
+D:\Projects\Real_cli\Real_cli\obj\Debug\Real_cli.csproj.Up2Date
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Debug\Real_cli.pdb
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Debug\System.Management.Automation.dll
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Debug\System.Management.Automation.xml
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Debug\Real_cli.csproj.AssemblyReference.cache
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Debug\Real_cli.csproj.CoreCompileInputs.cache
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Debug\Real_cli.csproj.Up2Date
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Debug\Real_cli.pdb
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Debug\Real_cli.exe.config
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Debug\Real_cli.exe
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Debug\Real_cli.exe

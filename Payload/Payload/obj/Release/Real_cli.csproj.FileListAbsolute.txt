@@ -1,0 +1,11 @@
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Release\System.Management.Automation.dll
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Release\Microsoft.Management.Infrastructure.dll
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Release\System.Management.Automation.xml
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Release\Real_cli.csproj.AssemblyReference.cache
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Release\Real_cli.csproj.CoreCompileInputs.cache
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Release\Real_cli.csproj.Up2Date
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Release\bcdshell.exe.config
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Release\bcdshell.exe
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\bin\Release\bcdshell.pdb
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Release\bcdshell.exe
+D:\Projects\Reverse Shell C#\Real_cli\Real_cli\obj\Release\bcdshell.pdb
